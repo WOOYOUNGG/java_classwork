@@ -1,0 +1,20 @@
+day6 순서
+
+1. ForInForTest.java
+2. MethodTest.java
+
+3. VariableTest.java
+4. StaticObjectTest.java
+
+5. GirlGroup.java
+6. GirlGroupTest.java
+7. 오늘의 문제.
+
+1) StudentScore 클래스를 만들어 보세요.
+
+필드:번호(num), 이름(name), 국어점수(korean), 영어점수(english), 과학점수(science)
+메소드: 모든 필드값 출력하는 메소드 printScore
+	총점 계산하고 결과값 리턴하는 메소드 sum
+	평균(실수)을 계산하고 결과값 리턴하는 메소드 avg 
+	
+2) StudentScore 클래스를 자유롭게 테스트해보세요.
